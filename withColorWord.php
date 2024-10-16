@@ -217,7 +217,7 @@ function printWordWithStars($word) {
 }
 
 // Example usage
-$wordToPrint = "Papry I  Love You";
+$wordToPrint = "Nothing to do....";
 $starWordOutput = printWordWithStars($wordToPrint);
 ?>
 
@@ -234,7 +234,7 @@ $starWordOutput = printWordWithStars($wordToPrint);
 
         pre{
             font-size: 25px;
-            color: black;
+        
         }
     </style>
 </head>
